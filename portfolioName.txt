@@ -1,0 +1,28 @@
+what work remain 
+1. header change by feedback form sir or anyone 
+2. hero section changes bg image also from about section
+3. try to find about education section 
+4. work section card section animation changes
+5. email script to send to mail
+
+
+
+
+
+
+
+
+
+
+
+
+-->my own project 
+1.byteschool hire page >>2 !
+2.byteschool about us page >>3 !
+3.bluelearn about clone >>4 !
+4.brocode sign up>>5 !
+5.facebook login page >>1 !
+6.Restaurant website>>6  !
+7.todo list>>9 !
+8.bluelearn home page clone>>7 !
+9.bluelearn hire page clone>>8 !
