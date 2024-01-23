@@ -15,15 +15,15 @@ mobile.addEventListener("click", () => {
 });
 // skills section
 let url = [
-  'https://facebookloginpage.pravinsuwasiya.repl.co/',
-  'https://hiretalentbyteschool.pravinsuwasiya.repl.co/',
-  'https://aboutusbyteschool.pravinsuwasiya.repl.co/',
-  'https://aboutusbluelearn.pravinsuwasiya.repl.co/',
-  'https://brocodesignup.pravinsuwasiya.repl.co/',
-  'https://restaurantwebsite.pravinsuwasiya.repl.co',
-  'https://homeclonebluelearn.pravinsuwasiya.repl.co/',
-  'https://hiretalentclonebluelearn.pravinsuwasiya.repl.co/',
-  'https://todolistpage.pravinsuwasiya.repl.co/',
+  'https://pravinfacebooklogin.netlify.app/',
+  'https://pravinbyteschoolhiretalent.netlify.app/',
+  'https://pravinbyteschoolabout.netlify.app/',
+  'https://pravinbluelearnabout.netlify.app/',
+  'https://pravinbrocodesignup.netlify.app/',
+  'https://pravinrestowebsite.netlify.app/',
+  'https://088d4264-e092-4b6b-b60f-621f6dcac92a-00-swvo7wrbib9i.pike.replit.dev/',
+  'https://pravinbluelearnhire.netlify.app/',
+  'https://pravintodolist.netlify.app/',
 ];
 let HeadingOfCard = [
   "Facebook Login Page",
