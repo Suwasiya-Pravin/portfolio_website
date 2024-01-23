@@ -1018,7 +1018,24 @@ textarea:focus {
     #zero div .items .head-content {
         text-align: start;
         margin-left: 38%;
-
+        font-size: 25px;
+    }
+    #zero div .items .z-content h3 {
+        width: 100%;
+    }
+    .a h2 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .skills-title h3 {
+        color: #ffffffc2;
+        font-size: 20px;
+        margin-top: 0.5rem;
+    }
+    .a .about-container .about-content {
+        width: 100%;
+        line-height: 0.7cm;
+        text-align: left;
     }
 
 
